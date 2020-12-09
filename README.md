@@ -7,3 +7,4 @@
 - 💬 Ask me about tech related staffs.
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/jeema-riyana-588696179/
 - 😄 Pronouns: She/Her
+![Riyana's github stats](https://github-readme-stats.vercel.app/api?username=Riyana6&show_icons=true&theme=radical)
