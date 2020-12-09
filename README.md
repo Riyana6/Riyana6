@@ -1,4 +1,4 @@
-### Hello Folks✨👋
+### Hello Folks, I'm Riyana✨👋
 
 - 🔭 I’m an undergraduate of Faculty of IT, University of Moratuwa
 - 🌱 I’m currently learning React
