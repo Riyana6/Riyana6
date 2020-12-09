@@ -7,6 +7,9 @@
 - 💬 Ask me about tech related staffs.
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/jeema-riyana-588696179/
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 
 
 ![Riyana's github stats](https://github-readme-stats.vercel.app/api?username=Riyana6&show_icons=true&theme=radical)
