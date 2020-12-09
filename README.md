@@ -12,4 +12,5 @@
 ![Riyana's github stats](https://github-readme-stats.vercel.app/api?username=Riyana6&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyana6&show_icons=true&theme=radical)](https://github.com/Riyana6/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=radical)](https://github.com/Riyana6/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Riyana6&repo=github-readme-stats)](https://github.com/Riyana6/github-readme-stats)
 
