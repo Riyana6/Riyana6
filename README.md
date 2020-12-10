@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **tech staffs**
 
-- 📫 How to reach me **jeemariyana@gmail.com**
+- 📫 Reach me at **jeemariyana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
