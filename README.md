@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyana6" alt="riyana6" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJ**
 
 - 📝 I regularly write articles on [https://jeemariyana.medium.com/](https://jeemariyana.medium.com/)
 
