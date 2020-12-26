@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks,✨ I'm Riyana</h1>
+<h1 align="center">Hello Forks,✨ I'm Riyana</h1>
 <h3 align="center">I am a self-motivated, passionate, responsible, and dedicated IT undergraduate who has the ability to work with a team. I am interested in web development and mobile development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyana6" alt="riyana6" /></a> </p>
