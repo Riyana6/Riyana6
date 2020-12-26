@@ -1,8 +1,6 @@
 <h1 align="center">Hello Folks,✨ I'm Riyana</h1>
 <h3 align="center">I am a self-motivated, passionate, responsible, and dedicated IT undergraduate who has the ability to work with a team. I am interested in web development and mobile development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyana6&label=Profile%20views&color=0e75b6&style=flat" alt="riyana6" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyana6" alt="riyana6" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
