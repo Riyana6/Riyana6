@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks,✨ I'm</h1>
+<h1 align="center">Hello Folks,✨</h1>
 <h3 align="center">I am a self-motivated, responsible and dedicated IT undergraduate who has the ability to work with a team. And an enthusiastic, energetic character who is always seeking to try on new paths and grab out the newest knowledge in the field to enhance the growth of an organization.</h3>
 
 - 🌱 I’m currently learning **ReactJS**
