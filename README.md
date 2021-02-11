@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📝 I regularly write articles on [https://jeemariyana.medium.com/](https://jeemariyana.medium.com/)
-
 - 📫 Reach me at **jeemariyana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
