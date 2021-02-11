@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks,✨ I'm Riyana</h1>
-<h3 align="center">I am a self-motivated, passionate, responsible, and dedicated IT undergraduate who has the ability to work with a team. I am interested in web development and mobile development.</h3>
+<h3 align="center">I am a self-motivated, responsible and dedicated IT undergraduate who has the ability to work with a team. And an enthusiastic, energetic character who is always seeking to try on new paths and grab out the newest knowledge in the field to enhance the growth of an organization.</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
