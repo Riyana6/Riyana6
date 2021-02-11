@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://jeemariyana.medium.com/](https://jeemariyana.medium.com/)
 
-- 💬 Ask me about **tech staffs**
-
 - 📫 Reach me at **jeemariyana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
